@@ -1,2 +1,2 @@
 # UnisinosGCS
-Repositório da Disciplina de GCS
+Giovane Fernandes Gomes - 2025/1 - 060430_20251_01
